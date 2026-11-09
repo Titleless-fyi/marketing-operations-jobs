@@ -4,13 +4,13 @@ Roles that run the systems, data and processes behind marketing: automation plat
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 7, 2026** · 0 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 9, 2026** · 0 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
 
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 7, 2026; eligibility checked November 7, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 9, 2026; eligibility checked November 9, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current marketing operations roles: [Marketing Operations jobs on Titleless.fyi](https://www.titleless.fyi/marketing-operations-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
